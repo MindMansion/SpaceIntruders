@@ -21,6 +21,7 @@
 		5603F60122531C3C00D8B81A /* Wave.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5603F60022531C3C00D8B81A /* Wave.swift */; };
 		5603F60322531D0600D8B81A /* Bundle-Decoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5603F60222531D0600D8B81A /* Bundle-Decoding.swift */; };
 		5603F6052253214E00D8B81A /* EnemyNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5603F6042253214E00D8B81A /* EnemyNode.swift */; };
+		5603F60722583AD400D8B81A /* Explosion.sks in Resources */ = {isa = PBXBuildFile; fileRef = 5603F60622583AD400D8B81A /* Explosion.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		5603F60022531C3C00D8B81A /* Wave.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wave.swift; sourceTree = "<group>"; };
 		5603F60222531D0600D8B81A /* Bundle-Decoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decoding.swift"; sourceTree = "<group>"; };
 		5603F6042253214E00D8B81A /* EnemyNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnemyNode.swift; sourceTree = "<group>"; };
+		5603F60622583AD400D8B81A /* Explosion.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Explosion.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 				5603F5E02253102000D8B81A /* AppDelegate.swift */,
 				5603F5E22253102000D8B81A /* GameScene.sks */,
 				5603F5E62253102000D8B81A /* GameScene.swift */,
+				5603F60622583AD400D8B81A /* Explosion.sks */,
 				5603F6042253214E00D8B81A /* EnemyNode.swift */,
 				5603F5FE22531BA000D8B81A /* EnemyType.swift */,
 				5603F60022531C3C00D8B81A /* Wave.swift */,
@@ -154,6 +157,7 @@
 				5603F5E32253102000D8B81A /* GameScene.sks in Resources */,
 				5603F5F9225312AC00D8B81A /* Starfield.sks in Resources */,
 				5603F5EE2253102000D8B81A /* Assets.xcassets in Resources */,
+				5603F60722583AD400D8B81A /* Explosion.sks in Resources */,
 				5603F5FC22531B1E00D8B81A /* waves.json in Resources */,
 				5603F5F12253102000D8B81A /* LaunchScreen.storyboard in Resources */,
 			);
